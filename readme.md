@@ -1,2 +1,2 @@
 repositorio de v ciclo
-  trabamos xD
+estoy editando mi archivo readme.md
